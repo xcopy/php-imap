@@ -1,0 +1,15 @@
+{
+  "name": "xcopy/php-imap",
+  "type": "project",
+  "minimum-stability": "stable",
+  "require": {
+    "php": "~8.0",
+    "ext-json": "*",
+    "ext-mbstring": "*",
+    "webklex/php-imap": "^5.5",
+    "vlucas/phpdotenv": "^5.5"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^6.0"
+  }
+}
